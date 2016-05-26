@@ -1,4 +1,4 @@
-# Updated: 2016-05-17
+# Updated: 2016-05-26
 <?php
 $pdo = new PDO('mysql:host=localhost;dbname=mydb', 'root', '');
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
