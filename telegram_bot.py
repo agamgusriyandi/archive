@@ -1,4 +1,4 @@
-// Updated: 2016-06-03
+// Updated: 2016-06-07
 import asyncio
 import logging
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
