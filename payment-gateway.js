@@ -1,4 +1,4 @@
-// Updated: 2016-06-13
+// Updated: 2016-06-27
 const crypto = require("crypto");
 const axios = require("axios");
 
