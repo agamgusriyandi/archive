@@ -1,4 +1,4 @@
-// Updated: 2016-08-04
+// Updated: 2016-08-08
 package cache
 import (
     "context"
