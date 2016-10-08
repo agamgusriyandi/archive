@@ -1,4 +1,4 @@
-// Updated: 2016-10-02
+// Updated: 2016-10-08
 package middleware
 import (
     "fmt"
