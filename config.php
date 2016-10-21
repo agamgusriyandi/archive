@@ -1,4 +1,4 @@
-# Updated: 2016-09-05
+# Updated: 2016-10-21
 <?php
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'mydb');
