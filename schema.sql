@@ -1,4 +1,4 @@
-# Updated: 2016-11-03
+# Updated: 2016-11-05
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(100) NOT NULL,
