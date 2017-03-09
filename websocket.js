@@ -1,4 +1,4 @@
-// Updated: 2017-03-05
+// Updated: 2017-03-09
 const WebSocket = require("ws");
 const jwt = require("jsonwebtoken");
 
