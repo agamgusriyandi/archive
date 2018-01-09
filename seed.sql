@@ -1,4 +1,4 @@
-# Updated: 2017-12-11
+# Updated: 2018-01-09
 INSERT INTO users (name, email, password) VALUES
 ('Admin', 'admin@example.com', 'hashed_password'),
 ('Test User', 'user@example.com', 'hashed_password');
