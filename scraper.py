@@ -1,4 +1,4 @@
-// Updated: 2018-01-14
+// Updated: 2018-01-18
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
