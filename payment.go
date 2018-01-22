@@ -1,4 +1,4 @@
-// Updated: 2018-01-19
+// Updated: 2018-01-22
 package payment
 import (
     "bytes"
