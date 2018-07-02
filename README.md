@@ -1,4 +1,4 @@
-# Updated: 2018-06-16
+# Updated: 2018-07-02
 # Project
 
 Full stack web application.
