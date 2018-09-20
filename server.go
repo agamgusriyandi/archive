@@ -1,4 +1,4 @@
-// Updated: 2018-09-08
+// Updated: 2018-09-20
 package main
 import (
     "encoding/json"
