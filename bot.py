@@ -1,4 +1,4 @@
-# Updated: 2018-10-23
+# Updated: 2018-11-06
 import telebot
 TOKEN = 'YOUR_TOKEN'
 bot = telebot.TeleBot(TOKEN)
