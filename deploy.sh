@@ -1,4 +1,4 @@
-# Updated: 2018-10-23
+# Updated: 2018-12-03
 #!/bin/bash
 set -e
 echo 'Pulling latest code...'
