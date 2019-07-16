@@ -1,4 +1,4 @@
-# Updated: 2019-06-21
+# Updated: 2019-07-16
 import requests
 from bs4 import BeautifulSoup
 
