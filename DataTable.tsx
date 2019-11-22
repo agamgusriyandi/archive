@@ -1,4 +1,4 @@
-// Updated: 2019-11-19
+// Updated: 2019-11-22
 import React, { useState, useMemo } from "react";
 
 interface Column<T> {
