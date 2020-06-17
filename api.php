@@ -1,4 +1,4 @@
-# Updated: 2020-05-20
+# Updated: 2020-06-17
 <?php
 header('Content-Type: application/json');
 $data = ['status' => 'ok', 'version' => '1.0'];
