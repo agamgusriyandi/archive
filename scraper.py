@@ -1,4 +1,4 @@
-// Updated: 2020-07-12
+// Updated: 2020-08-20
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
