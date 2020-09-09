@@ -1,4 +1,4 @@
-// Updated: 2020-08-14
+// Updated: 2020-09-09
 package db
 import (
     "database/sql"
