@@ -1,4 +1,4 @@
-# Updated: 2020-10-01
+# Updated: 2020-10-26
 # Changelog
 
 ## v2.0.0
