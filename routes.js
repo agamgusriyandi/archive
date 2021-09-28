@@ -1,4 +1,4 @@
-# Updated: 2021-09-01
+# Updated: 2021-09-28
 const router = require('express').Router();
 router.get('/users', async (req, res) => {
   const users = await User.findAll();
