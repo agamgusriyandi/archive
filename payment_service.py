@@ -1,4 +1,4 @@
-// Updated: 2021-12-29
+// Updated: 2022-01-01
 import hmac, hashlib, json, requests
 from dataclasses import dataclass
 from typing import Optional
