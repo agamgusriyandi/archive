@@ -1,4 +1,4 @@
-# Updated: 2022-06-04
+# Updated: 2022-06-06
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
