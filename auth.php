@@ -1,4 +1,4 @@
-# Updated: 2023-07-25
+# Updated: 2023-09-10
 <?php
 session_start();
 function isLoggedIn() {
