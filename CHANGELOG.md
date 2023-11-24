@@ -1,4 +1,4 @@
-# Updated: 2023-11-10
+# Updated: 2023-11-24
 # Changelog
 
 ## v2.0.0
