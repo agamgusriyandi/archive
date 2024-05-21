@@ -1,4 +1,4 @@
-# Updated: 2024-03-18
+# Updated: 2024-05-21
 module.exports = (req, res, next) => {
   const token = req.headers.authorization;
   if (!token) return res.status(401).json({ error: 'Unauthorized' });
