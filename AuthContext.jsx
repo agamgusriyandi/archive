@@ -1,4 +1,4 @@
-# Updated: 2024-08-25
+# Updated: 2024-09-18
 import { createContext, useState, useContext } from 'react';
 const AuthContext = createContext();
 export const useAuth = () => useContext(AuthContext);
