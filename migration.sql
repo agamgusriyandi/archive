@@ -1,4 +1,4 @@
-# Updated: 2025-04-30
+# Updated: 2025-05-01
 ALTER TABLE users ADD COLUMN role ENUM('admin','user') DEFAULT 'user';
 ALTER TABLE users ADD COLUMN is_active BOOLEAN DEFAULT TRUE;
 CREATE INDEX idx_email ON users(email);
