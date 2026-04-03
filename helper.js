@@ -1,4 +1,4 @@
-# Updated: 2026-03-27
+# Updated: 2026-04-03
 const formatDate = (date) => new Date(date).toLocaleDateString('id-ID');
 const capitalize = (str) => str.charAt(0).toUpperCase() + str.slice(1);
 module.exports = { formatDate, capitalize };
